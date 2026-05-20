@@ -1,0 +1,15 @@
+{
+  "name": "namastedsa",
+  "version": "1.0.0",
+  "description": "Namaste DSA Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "namaste-dsa"
+  },
+  "author": "Aditya Bhat",
+  "license": "ISC"
+}
