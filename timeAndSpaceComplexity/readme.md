@@ -1,0 +1,1 @@
+This chapter is covered in hand written notes. 
